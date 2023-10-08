@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+    font-family: "Prompt", sans-serif;
+    box-sizing: border-box;
+}
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
+
+.bg-333333 {
+    background-color: #333333;
+}
+
+.bg-D9D9D9 {
+    background-color: #d9d9d9;
+}
+
+.bg-980000-C10000 {
+    background: linear-gradient(90deg, #980000 0%, #c10000 100%);
+}
+
+.bg-dbdbdb-ffffff {
+    background: linear-gradient(90deg, #dbdbdb 0%, #ffffff 100%);
+}
+
+.bg-none {
+    background: none;
+}
+
+.border-none {
+    border: none;
+}
+
+.outline-none {
+    outline: none;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-32 {
+    font-size: 32px;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.mw-460 {
+    max-width: 460px;
+}
+
+.br-10 {
+    border-radius: 10px;
+}
+
+.mr-13 {
+    margin-right: 13px;
+}
+
+.mr-40 {
+    margin-right: 40px;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.h-47 {
+    height: 47px;
+}
+
+.h-120 {
+    height: 120px;
+}
+
+.max-h-384 {
+    max-height: 384px;
+}
+
+.max-h-190 {
+    max-height: 190px !important;
+}
+
+.mt-60 {
+    margin-top: 60px;
+}
+
+.mt-120 {
+    margin-top: 120px;
+}
+
+.pt-15 {
+    padding-top: 15px !important;
+}
+.pb-15 {
+    padding-bottom: 15px !important;
+}
